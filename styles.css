@@ -11,9 +11,11 @@ button{
   background-color: red;
   color: blue;
   box-shadow: 0 30px 40px rgba(255,0,0,.1);
+  border-style:solid;
 }
 button:hover{
   background-color: blue;
   color: red;
   box-shadow: 0 30px 40px rgba(0,0,255,.1);
+  border-style:solid;
 }
