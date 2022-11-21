@@ -1,10 +1,5 @@
 # The Unknown Client
-A Minecraft Client
-```html
-<html>
-<body>
-  <a>Hey</a>
-</body>
-</html>
+Founder
 ```
-
+The founders name is Eclipse.
+You can see more about **them** at https://EclipseTheDev.github.io/AboutMe/
