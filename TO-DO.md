@@ -1,0 +1,4 @@
+- [x] Make index.html file
+- [x] Make styles.html file
+- [ ] Make index.html, styles.css look good
+- [ ] Make a download page 
