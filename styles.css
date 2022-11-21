@@ -1,8 +1,17 @@
 *{
   text-align: center;
   color: ;
+  font-family: cursive;
 }
 body{
   background-color: grey;
   
+}
+button{
+  background-color: red;
+  color: blue;
+}
+button:hover{
+  background-color: blue;
+  color: red;
 }
